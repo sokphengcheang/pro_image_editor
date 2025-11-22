@@ -31,7 +31,7 @@ platforms:
   windows:
 
 environment:
-  sdk: ">=2.19.0 <3.0.0"
+  sdk: ^3.8.0
 
 dependencies:
   flutter:
